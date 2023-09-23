@@ -1,0 +1,14 @@
+{
+  "appDesc": {
+    "description": "The description of the application, displayed in the web store.",
+    "message": "A phishing attack detector extension for surfing web sites"
+  },
+  "appName": {
+    "description": "The title of the application, displayed in the web store.",
+    "message": "PhishWhisperer"
+  },
+  "appShortName": {
+    "description": "The short title of the application, displayed in the web store.",
+    "message": "PhishWhisperer"
+  }
+}
